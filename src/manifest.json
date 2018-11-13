@@ -1,0 +1,17 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "name": "Run...",
+      "identifier": "my-command-identifier",
+      "script": "./my-command.js"
+    }
+  ],
+  "menu": {
+    "title": "Add trailing space",
+    "items": [
+      "my-command-identifier"
+    ]
+  }
+}
