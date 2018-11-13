@@ -1,7 +1,7 @@
 {
   "name": "sketch-add-trailing-space",
   "description": "add trailing space into selected text layers",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "sketch": ">=3.0"
   },
